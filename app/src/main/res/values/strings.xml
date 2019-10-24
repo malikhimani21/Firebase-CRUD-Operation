@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Firebase CRUD</string>
+
+    <string-array name="citySpinner">
+        <item>Ahmedabad</item>
+        <item>Pune</item>
+        <item>Hydrabad</item>
+        <item>Banglore</item>
+        <item>Nagpur</item>
+        <item>Kanpur</item>
+    </string-array>
+
+</resources>
